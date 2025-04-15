@@ -22,14 +22,14 @@ with open("README.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 
 setup(
-    name="WeTextProcessing",
+    name="WeTextProcessing-Fix-2",
     version=version,
-    author="Zhendong Peng, Xingchen Song",
-    author_email="pzd17@tsinghua.org.cn, sxc19@tsinghua.org.cn",
+    author="Lyming",
+    author_email="331661029@qq.com",
     long_description=long_description,
     long_description_content_type="text/markdown",
     description="WeTextProcessing, including TN & ITN",
-    url="https://github.com/wenet-e2e/WeTextProcessing",
+    url="https://github.com/lym331461029/WeTextProcessing",
     packages=find_packages(),
     package_data={
         "tn": [
