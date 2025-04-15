@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 
 setup(
-    name="WeTextProcessing",
+    name="WeTextProcessing-fix-2",
     version="0.0.1",
     author="Lyming",
     author_email="331661029@qq.com",
